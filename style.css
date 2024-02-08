@@ -9,14 +9,14 @@ body{
 p{
     font-family: Brush Script MT, Brush Script Std, cursive;
     color: #fff;
-    font-size: 43px;
+    font-size: 30px;
     text-shadow:3px 3px 10px #ff0000;
 }
 .book{
     position: relative;
     border-radius: 10px;
-    width: 400px;
-    height: 600px;
+    width: 350px;
+    height: 500px;
     background-color: whitesmoke;
     -webkit-box-shadow: 1px 1px 30px #ff0000;
     box-shadow: 1px 1px 30px #ff0000;
@@ -72,10 +72,10 @@ p{
   }
   img {
     border-radius: 10px;
-    height: 600px;
-    width: 400px;
+    height: 500px;
+    width: 350px;
   }
   .book .cover img{
     border-radius: 10px;
-    height: 600px;
+    height: 500px;
   }
